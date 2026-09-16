@@ -1471,7 +1471,7 @@ async function responderPeloPainel({
           compradorNome,
           texto: String(texto).trim(),
           respondenteAmojoId:
-            "e9b5706e-1668-41da-834c-2833ba66d817",
+            "process.env.KOMMO_AMOJO_ID_SUPORTE || "PREENCHER_COM_AMOJO_ID_DO_SUPORTE"",
           respondenteNome: "Suporte",
           msgid: msgidCentral,
         });
