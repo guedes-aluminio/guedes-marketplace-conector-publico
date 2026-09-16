@@ -1,0 +1,10 @@
+config.json
+tokens.json
+.env
+dados.json
+pushes.log
+node_modules/
+.DS_Store
+Thumbs.db
+*.bak
+atendimentos.json
