@@ -1543,7 +1543,7 @@ async function responderPeloPainel({
               compradorNome,
               texto: String(texto).trim(),
               respondenteAmojoId:
-                "480f2888-6c8f-4b66-89f7-b42aeca87e6c",
+                "process.env.KOMMO_AMOJO_ID_ARIANE || "PREENCHER_COM_SEU_AMOJO_ID"",
               respondenteNome: "Endrigo Guedes",
               msgid: msgidCentral,
             });
@@ -1615,7 +1615,7 @@ async function responderPeloPainel({
               compradorNome: `Venda ${packId}`,
               texto: String(texto).trim(),
               respondenteAmojoId:
-                "480f2888-6c8f-4b66-89f7-b42aeca87e6c",
+                "process.env.KOMMO_AMOJO_ID_ARIANE || "PREENCHER_COM_SEU_AMOJO_ID"",
               respondenteNome: "Endrigo Guedes",
               msgid: msgidCentral,
             });
@@ -1685,7 +1685,7 @@ async function responderPeloPainel({
               compradorNome,
               texto: String(texto).trim(),
               respondenteAmojoId:
-                "480f2888-6c8f-4b66-89f7-b42aeca87e6c",
+                "process.env.KOMMO_AMOJO_ID_ARIANE || "PREENCHER_COM_SEU_AMOJO_ID",
               respondenteNome: "Endrigo Guedes",
               msgid: msgidCentral,
             });
