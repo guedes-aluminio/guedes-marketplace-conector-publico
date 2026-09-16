@@ -176,4 +176,4 @@ Scripts de configuração pontual, executados manualmente via shell do ambiente 
 
 ## Autoria
 
-Desenvolvido e mantido por Ariane Minguini Sanga para a Guedes Alumínio.
+Desenvolvido e mantido por Ariane Sanga para a Guedes Alumínio.
